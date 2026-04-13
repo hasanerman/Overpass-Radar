@@ -52,3 +52,12 @@ This tool leverages publicly available Open Source Intelligence (OSINT) data der
 ## License
 
 This project is licensed under the MIT License.
+
+<img width="1916" height="956" alt="image" src="https://github.com/user-attachments/assets/bc45b4d2-0d01-4046-a99e-492e99dc8729" />
+
+<img width="1913" height="957" alt="image" src="https://github.com/user-attachments/assets/fd8797c9-735e-4450-85c8-62ea3722ca54" />
+
+<img width="1912" height="959" alt="image" src="https://github.com/user-attachments/assets/5bd11b7c-e0f6-409b-b1aa-2a377ead6647" />
+
+<img width="1923" height="958" alt="image" src="https://github.com/user-attachments/assets/695940dc-1ea1-4581-b2d8-83ef3bc5d3bd" />
+
