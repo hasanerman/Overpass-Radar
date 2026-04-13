@@ -1,8 +1,8 @@
-# Global Sentinel
+# Overpass-Radar
 
 > **An advanced OSINT & Military Intelligence Radar Interface**
 
-Global Sentinel is a high-performance, professional-grade web application built to identify, track, and map military installations and restricted areas globally. Utilizing Leaflet, OpenStreetMap, and the Overpass API, it provides intelligent spatial clustering and visualization of base perimeters, sub-units, and restricted zones.
+Overpass-Radar is a high-performance, professional-grade web application built to identify, track, and map military installations and restricted areas globally. Utilizing Leaflet, OpenStreetMap, and the Overpass API, it provides intelligent spatial clustering and visualization of base perimeters, sub-units, and restricted zones.
 
 ## Features
 
