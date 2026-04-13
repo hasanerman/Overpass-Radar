@@ -26,13 +26,7 @@ Overpass-Radar is a high-performance, professional-grade web application built t
 * Node.js (v18 or higher)
 * npm (Node Package Manager)
 
-### Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/global-sentinel.git
-   cd global-sentinel
-   ```
 
 2. **Setup Backend:**
    ```bash
