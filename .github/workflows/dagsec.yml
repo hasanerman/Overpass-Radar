@@ -1,0 +1,17 @@
+name: dagsec
+on: pull_request
+permissions:
+  contents: read
+  pull-requests: write
+  id-token: write
+jobs:
+  dagsec:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: hasanerman/dagsec-action@v1
+        with:
+          api-key: ${{ secrets.DAGSEC_API_KEY }}
+          fail-under: 40
