@@ -60,3 +60,6 @@ This project is licensed under the MIT License.
 <img width="1912" height="959" alt="image" src="https://github.com/user-attachments/assets/5bd11b7c-e0f6-409b-b1aa-2a377ead6647" />
 
 <img width="1923" height="958" alt="image" src="https://github.com/user-attachments/assets/695940dc-1ea1-4581-b2d8-83ef3bc5d3bd" />
+ 
+## License 
+MIT 
